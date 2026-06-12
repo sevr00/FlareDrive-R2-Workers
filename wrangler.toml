@@ -27,3 +27,4 @@ AWS_SECRET_ACCESS_KEY = "ced273817796d2b760ffbb54e1c04addc9e3803c997cb30ff37e938
 GUEST = ""
 PUBLIC_LIST=true   # 开启游客浏览所有目录
 # PUBLIC_LIST=false  # 关闭，需要登录才能看
+PUBLIC_RAW=true    # 游客可以下载所有文件
