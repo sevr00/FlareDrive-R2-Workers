@@ -25,7 +25,7 @@
       <strong>作者:</strong><a href="https://github.com/xingmihai" target="_blank"
         rel="noopener noreferrer">星觅海</a>
       <strong>初始项目:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
-        rel="noopener noreferrer">Cloudflare-R2-OSS</a>
+        rel="noopener noreferrer">Cloudflare-R2</a>
     </div>
 
     <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
