@@ -43,7 +43,7 @@ export default {
       homeUrl: "https://page.xmhai.cn",
       blogUrl: "https://www.xmhai.cn",
       githubUrl: "https://github.com/xingmihai",
-      emailUrl: "mailto:01@liushen.fun"
+      emailUrl: "mailto:1498934815@qq.com"
     };
   }
 };
